@@ -53,6 +53,22 @@
             "mobileNav",
             "mobileNav.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "CUlogin",
+            "CUlogin.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "favFoods",
+            "favFoods.json"
+          ]
         }
       ],
       "configxml": null,
